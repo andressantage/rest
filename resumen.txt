@@ -1,0 +1,11 @@
+
+
+declaracion de variables:
+La palabra clave "const" se utiliza para declarar una variable cuyo valor no puede ser reasignado después de su inicialización. Una vez que una variable ha sido declarada con "const", su valor no puede ser cambiado posteriormente.
+const nombreDeLaVariable
+
+la palabra clave "let" se utiliza para declarar una variable con un ámbito de bloque. 
+let nombreDeLaVariable
+
+Las variables declaradas con "var" tienen un ámbito de función, lo que significa que solo son accesibles dentro de la función en la que se declaran o en funciones anidadas
+var nombreDeLaVariable
